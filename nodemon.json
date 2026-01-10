@@ -1,0 +1,4 @@
+{
+  "watch": ["./public", "./src"],
+  "ignore": ["node_modules", "dist"]
+}
